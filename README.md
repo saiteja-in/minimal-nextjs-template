@@ -23,7 +23,7 @@ A modern authentication template built with Next.js, featuring OAuth integration
 1. **Clone & Install**
    ```bash
    git clone https://github.com/yourusername/cipherlink.git
-   cd cipherlink
+   cd minimal-nextjs-template
    npm install
    ```
 
